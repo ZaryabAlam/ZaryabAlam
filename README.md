@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zaryab Alam
-- 👀 I’m interested in Technology
+- 👀 I’m interested in Technology & Arts
 - 🌱 I’m currently learning Flutter, Mobile Application Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
