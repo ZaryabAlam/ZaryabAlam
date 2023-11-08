@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zaryab Alam
-- 👀 I’m interested in Technology & Arts
-- 🌱 I’m currently learning Flutter, Mobile Application Development
+- 👀 I’m interested in Technology, Space, Aviation & Arts
+- 🌱 I’m currently working on Flutter, Mobile Application Development
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
